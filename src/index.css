@@ -132,7 +132,8 @@ button:hover {
   font-size: 1rem;
 }
 
-#resume-study-date,
+#resume-study-from,
+#resume-study-until,
 #resume-company,
 .resume-section > p > #resume-work-from,
 .resume-section > p > #resume-work-until {
